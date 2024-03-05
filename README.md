@@ -7,16 +7,10 @@ I built this project to learn how to make a webpage accessible and how to work w
 This project solves the problem of making a webpage accessible and refactoring existing code to make it more maintainable.
 With this project, I learned how to make a webpage accessible and how to leave code better than I found it.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 ## Usage
 
-To use the webpage, please navigate to https://mattm479.github.io/week-1-project.
+To use the webpage, please navigate to https://mattm479.github.io/week-1-project. This webpage will look similar to the screenshot below:
+![Week 1 Project Screenshot](assets/images/screenshot.png)
 
 ## License
 

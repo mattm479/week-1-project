@@ -1,3 +1,4 @@
+/* Universal styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +22,7 @@ header h1 {
     font-size: 48px;
 }
 
-.seo {
+header .seo {
     color: #d9dcd6;
 }
 
@@ -41,6 +43,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Other element selector styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +53,7 @@ p, figcaption {
     font-size: 16px;
 }
 
+/* Class selector styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -120,6 +124,7 @@ p, figcaption {
     max-width: 150px;
 }
 
+/* Footer styling */
 footer {
     padding: 30px;
     clear: both;
